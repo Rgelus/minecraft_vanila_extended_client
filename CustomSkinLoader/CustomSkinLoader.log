@@ -1,0 +1,18 @@
+[2024-11-30 17:18:51] [main/INFO] [CustomSkinLoader Core]: "version.json": jar:file:/C:/Users/topol/AppData/Roaming/ModrinthApp/meta/versions/1.21.1-0.16.9/1.21.1-0.16.9.jar!/version.json
+[2024-11-30 17:18:51] [main/INFO] [CustomSkinLoader Core]: MinecraftVersion: {name='1.21.1', world_version='3955', protocol_version='767'}
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_355, mixin: customskinloader.mixin.MixinGuiPlayerTabOverlay, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_760, mixin: customskinloader.mixin.MixinIImageBuffer, result: false
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_3298, mixin: customskinloader.mixin.MixinIResource, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_3300, mixin: customskinloader.mixin.MixinIResourceManager, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_972, mixin: customskinloader.mixin.MixinLayerCape, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_310, mixin: customskinloader.mixin.MixinMinecraft, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1011, mixin: customskinloader.mixin.MixinNativeImage, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1007, mixin: customskinloader.mixin.MixinRenderPlayer, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071$1, mixin: customskinloader.mixin.MixinSkinManager$1, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071$class_8686, mixin: customskinloader.mixin.MixinSkinManager$CacheKey, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071$class_8687, mixin: customskinloader.mixin.MixinSkinManager$TextureCache, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V1, result: false
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V2, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager$V3, result: true
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageData$V1, result: false
+[2024-11-30 17:18:52] [main/INFO] [CustomSkinLoader Core]: target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageData$V2, result: true
